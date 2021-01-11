@@ -1,0 +1,3 @@
+[submodule "dotnet-ef6"]
+	path = dotnet-ef6
+	url = https://github.com/dotnet/ef6.git
